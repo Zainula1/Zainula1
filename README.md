@@ -63,7 +63,7 @@ I am looking for new opportunities in the domain of Machine Learning, Deep Learn
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
+<img src="https://img.shields.io/badge/ESP32-CAM-blue" />
 
 </p>
 
