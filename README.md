@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Zainula1/Zainula1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hey there 👋 !!
 I am Zainulabedin Jariwala, currently doing Master's at the University of Bremen in Control, Microsystem and Microelectronics where my research focused on Machine learning,deep learning and IoT
+
 
 ## Reach Out to Me
 <p>
