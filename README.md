@@ -39,10 +39,8 @@ I am Zainulabedin Jariwala, currently doing Master's at the University of Bremen
 ## About Me  
 I am looking for new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
-- 😄 I love to perform EDA of data and get value from data, using modern ML, DL techniques.
-- 🔭 I have recently worked on using Deep Learning to analyse Neuro-Physiology Signals such as EEG, ECG, etc.
-- ⚡ Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
-- 📫 You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
+- 😄 I would love to work with new projects to expands my machine learning and deep learning skills.
+- 🔭 I have recently worked on using Deep Learning to etc.
 - 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
 
 
@@ -61,7 +59,6 @@ I am looking for new opportunities in the domain of Machine Learning, Deep Learn
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> 
         <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=whitee" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-CAM-blue" />
 
@@ -82,4 +79,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
+
+--> 
