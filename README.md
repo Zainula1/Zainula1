@@ -41,7 +41,7 @@ I am looking for new opportunities in the domain of Machine Learning, Deep Learn
 
 - 😄 I would love to work with new projects to expands my machine learning and deep learning skills.
 - 🔭 I have recently worked on using Deep Learning to etc.
-- 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
+- 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](https://bold.pro/my/zainulabedin-jariwala-230906191704).
 
 
  ## 💻 Langauges & Tools I love Coding In !
